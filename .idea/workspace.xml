@@ -25,13 +25,40 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c80ee0-7660-4213-881f-3cda1e09b46d" name="Default Changelist" comment="" />
+    <list default="true" id="78c80ee0-7660-4213-881f-3cda1e09b46d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.web.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdowns/SET_TIMEOUT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node/html.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node/html.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node/index.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gsNXU33yMUx9HYlbo680VhpEJG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,12 +66,109 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="ts.external.directory.path" value="D:\Projects\imagificator\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\imagificator\dist\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\imagificator\src\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.node.#renderPng.renders markdown as png">
+    <configuration name="html" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/node/html.spec.ts" />
+      <test-names>
+        <test-name value="html" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="html.#toHtml.inserts inner text into specified ID tag" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/node/html.spec.ts" />
+      <test-names>
+        <test-name value="html" />
+        <test-name value="#toHtml" />
+        <test-name value="inserts inner text into specified ID tag" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="node.#renderPng.renders markdown as png" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/node/index.spec.ts" />
+      <test-names>
+        <test-name value="node" />
+        <test-name value="#renderPng" />
+        <test-name value="renders markdown as png" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build.node.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/build.node.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="NodeJSConfigurationType" node-parameters="--require ts-node/register" path-to-js-file="src/index.ts" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <node-options value="--require ts-node/register" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.main" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="Jest.html.#toHtml.inserts inner text into specified ID tag" />
+      <item itemvalue="Jest.html" />
+      <item itemvalue="Node.js.build.node.js" />
+      <item itemvalue="Jest.node.#renderPng.renders markdown as png" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.node.#renderPng.renders markdown as png" />
+        <item itemvalue="Jest.html" />
+        <item itemvalue="Jest.html.#toHtml.inserts inner text into specified ID tag" />
+        <item itemvalue="Node.js.build.node.js" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,11 +178,107 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598899379847</updated>
-      <workItem from="1598899380905" duration="313000" />
+      <workItem from="1598899380905" duration="18827000" />
+      <workItem from="1598980651104" duration="55869000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dist/web/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="382" key="#Inspections" timestamp="1598990641506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="266" y="382" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1598990641506" />
+    <state x="95" y="359" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599074508923">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="95" y="359" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599074508923" />
+    <state x="420" y="471" key="FileChooserDialogImpl" timestamp="1598907724640">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="420" y="471" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598907724640" />
+    <state width="2539" height="400" key="GridCell.Tab.0.bottom" timestamp="1599109827593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599109827593" />
+    <state width="2539" height="400" key="GridCell.Tab.0.center" timestamp="1599109827593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599109827593" />
+    <state width="2539" height="400" key="GridCell.Tab.0.left" timestamp="1599109827593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599109827593" />
+    <state width="2539" height="400" key="GridCell.Tab.0.right" timestamp="1599109827593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599109827593" />
+    <state width="1257" height="492" key="GridCell.Tab.1.bottom" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.1.center" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.1.left" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.1.right" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.2.bottom" timestamp="1599070791646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791646" />
+    <state width="1257" height="492" key="GridCell.Tab.2.center" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.2.left" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.2.right" timestamp="1599070791645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791645" />
+    <state width="1257" height="492" key="GridCell.Tab.3.bottom" timestamp="1599070791646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791646" />
+    <state width="1257" height="492" key="GridCell.Tab.3.center" timestamp="1599070791646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791646" />
+    <state width="1257" height="492" key="GridCell.Tab.3.left" timestamp="1599070791646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791646" />
+    <state width="1257" height="492" key="GridCell.Tab.3.right" timestamp="1599070791646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1257" height="492" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599070791646" />
+    <state x="163" y="257" key="SettingsEditor" timestamp="1599073910036">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="163" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1599073910036" />
+    <state x="346" y="436" width="798" height="534" key="find.popup" timestamp="1599110102000">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="346" y="436" width="798" height="534" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599110102000" />
+    <state x="303" y="320" key="search.everywhere.popup" timestamp="1599001455563">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599001455563" />
   </component>
 </project>
